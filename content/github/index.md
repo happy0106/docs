@@ -1,4 +1,4 @@
----
+Hello world---
 title: GitHub.com
 redirect_from:
   - /articles/
